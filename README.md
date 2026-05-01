@@ -6,7 +6,6 @@ This repository contains my Python projects created for learning and practice.
 ## Projects Included
 - Calculator App
 - Guessing Game
-- (add yours)
 
 ## How to Run
 1. Clone the repo
